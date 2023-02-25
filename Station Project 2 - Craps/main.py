@@ -16,7 +16,7 @@ class Game:
         while start == 'Start' or start == 'start':
             return f'{self.dice_1} + {self.dice_2} = {self.dice_sum}'
         else:
-            raise ValueError("Type 'go' for start game. ")
+            raise ValueError("Type 'start' for start game. ")
 
     def game_process(self):
         if self.dice_sum in self.user_numbers:
