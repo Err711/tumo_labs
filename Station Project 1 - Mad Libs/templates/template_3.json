@@ -1,0 +1,9 @@
+{"word_descriptions": [
+"Proper Noun (Person’s Name)", "Adjective", "Color", "Animal", "Place", "Adjective2",
+"Magical Creature (Plural)", "Adjective3", "Magical Creature (Plural)2", "Room in a House",
+"Noun", "Noun2", "Noun(Plural)3", "Adjective4","Noun (Plural)4",
+"Number", "Measure of time", "Verb (ending in ing)", "Adjective5", "Noun5"
+],
+
+"template": "Dear {}, I am writing to you from a {} castle in an enchanted forest. I found myself here one day after going for a ride on a {} {} in {}. There are {} {} and {} {} here! In the {} there is a pool full of {}. I fall asleep each night on a {} of {} and dream of {} {}. It feels as though I have lived here for {} {}. I hope one day you can visit, although the only way to get here now is {} on a {} {}!!' "
+}
