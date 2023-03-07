@@ -1,8 +1,0 @@
-{"word_descriptions": [
-  "Proper Noun (Person's Name)", "Noun", "Adjective (Feeling)", "Verb", "Adjective (Feeling) 2",
-  "Animal", "Verb2", "Color", "Verb (ending in ing)", "Adverb (ending in ly)",
-  "Number", "Measure of Time", "Color","Animal", "Number", "Silly Word", "Noun2"
-],
-
-"template": "This weekend I am going camping with {}. I packed my lantern, sleeping bag, and {}. I am so {} to {} in a tent. I am {} we might see a(n) {}, I hear they’re kind of dangerous. While we’re camping, we are going to hike, fish, and {}. I have heard that the {} lake is great for {}. Then we will {} hike through the forest for {} {}. If I see a {} {} while hiking, I am going to bring it home as a pet! At night we will tell {} {} stories and roast {} around the campfire!!"
-}
